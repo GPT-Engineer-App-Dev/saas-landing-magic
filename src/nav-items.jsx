@@ -1,7 +1,7 @@
 import { Home, Zap, DollarSign, Mail } from "lucide-react";
 import Index from "./pages/Index.jsx";
 
-const Features = () => <div className="p-4">Features Page</div>;
+import Features from "./pages/Features.jsx";
 const Pricing = () => <div className="p-4">Pricing Page</div>;
 const Contact = () => <div className="p-4">Contact Page</div>;
 
